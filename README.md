@@ -17,17 +17,6 @@ _Here you can see some projects which are includes HTML CSS JavaScript_
 - [Glowing dots](https://ndn1618.github.io/glowing-dots/)
 - [Username list](https://ndn1618.github.io/tamplate/)
 - [Message Chat](https://ndn1618.github.io/Message-Chat/)
-
-<p align="">
-  <a href= "https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=wuufeii&count_private=true&theme=tokyonight&include_all_commits=true&show_icons=true" /></a>
-</p>
-
-<details>
-  <summary> More things </summary>
-  <br>
-    <p>
-        <a href= "https://github.com/anuraghazra/github-readme-stats"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=wuufeii&layout=compact" /></a>
-    </p>
 <!--
 **Ndn1618/Ndn1618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
