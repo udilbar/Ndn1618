@@ -1,4 +1,4 @@
-### Hi there I'm [Dilbar](https://github.com/Ndn1618/Ndn1618/) 👋
+### Hi there 👋 I'm [Dilbar](https://ndn1618.github.io/Ndn1618/)
 
 ***I'm currently learning web programming***
 
