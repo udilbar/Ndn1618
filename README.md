@@ -2,6 +2,8 @@
 
 ***I'm currently learning web programming***
 
+<a href="https://profile-counter.glitch.me/wuufeii/count.svg"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/wuufeii/count.svg" /></a>
+
 _Here you can see some projects which are includes HTML CSS JavaScript_
 
 ![](https://github-readme-stats.vercel.app/api?username=Ndn1618&show_icons=true&count_private=true)
