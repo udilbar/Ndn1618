@@ -1,8 +1,6 @@
 ### Hi there 👋 I'm [Dilbar](https://ndn1618.github.io/Ndn1618/)
 
-***I'm currently learning web programming***
-
-_Here you can see some projects which are includes HTML CSS JavaScript_
+**I'm Fullstack Developer**
 
 ![](https://github-readme-stats.vercel.app/api?username=Ndn1618&show_icons=true&count_private=true)
 
