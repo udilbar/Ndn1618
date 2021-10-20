@@ -2,11 +2,11 @@
 
 **I'm Full Stack Web Developer**
 
-![](https://github-readme-stats.vercel.app/api?username=Ndn161&&show_icons=true&count_private=true&&theme=vue)
+![](https://github-readme-stats.vercel.app/api?username=Ndn1618&&show_icons=true&count_private=true&&theme=vue)
 
 [![Dilbar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ndn1618)](https://github.com/Ndn1618/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ndn1618&layout=compact)](https://github.com/Ndn1618/github-readme-stats)
 
 - [FrontLoops-1-4](https://ndn1618.github.io/FrontLoops-1-4/)
 - [FrontLoops-1-9](https://ndn1618.github.io/frontloops-1-9/)
