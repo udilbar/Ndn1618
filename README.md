@@ -2,7 +2,7 @@
 
 **I'm Full Stack Web Developer**
 
-![](https://github-readme-stats.vercel.app/api?username=Ndn1618&show_icons=true&count_private=true&&theme=prussian)
+![](https://github-readme-stats.vercel.app/api?username=Ndn1618&show_icons=true&count_private=true&&theme=vue)
 
 - [FrontLoops-1-4](https://ndn1618.github.io/FrontLoops-1-4/)
 - [FrontLoops-1-9](https://ndn1618.github.io/frontloops-1-9/)
