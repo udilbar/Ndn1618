@@ -4,6 +4,8 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Ndn1618&show_icons=true&count_private=true&&theme=vue)
 
+![Dilbar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ndn1618)](https://github.com/Ndn1618/github-readme-stats)
+
 - [FrontLoops-1-4](https://ndn1618.github.io/FrontLoops-1-4/)
 - [FrontLoops-1-9](https://ndn1618.github.io/frontloops-1-9/)
 - [Namanganliklar24 project](https://ndn1618.github.io/namanganliklar-24/)
