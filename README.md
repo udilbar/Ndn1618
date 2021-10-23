@@ -8,8 +8,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ndn1618&layout=compact)](https://github.com/Ndn1618/github-readme-stats)
 
-[Admin Dashboard of Uztelecom's official website](https://uztelecom.uz)
-[Fair Vacancies](https://hr.uztelecom.uz/main/en)
+- [Admin Dashboard of Uztelecom's official website](https://uztelecom.uz)
+- [Fair Vacancies](https://hr.uztelecom.uz/main/en)
 <!-- - [FrontLoops-1-4](https://ndn1618.github.io/FrontLoops-1-4/)
 - [FrontLoops-1-9](https://ndn1618.github.io/frontloops-1-9/)
 - [Namanganliklar24 project](https://ndn1618.github.io/namanganliklar-24/)
