@@ -57,11 +57,21 @@
 </head>
 
 <body data-spy="scroll" data-target="#navbar-custom" data-env="production">
-  <div id="tt-preloader">
-    <div id="pre-status">
-      <div class="preload-placeholder"></div>
-    </div>
+  <div class="preloader-wrapper" id="tt-preloader">
+  <div class="preloader" id="pre-status">
+		<div class="preloader__square"></div>
+		<div class="preloader__square"></div>
+		<div class="preloader__square"></div>
+		<div class="preloader__square"></div>
+	</div>
+	<!-- <div class="status">
+    Loading
+    <span class="status__dot">.</span>
+    <span class="status__dot">.</span>
+    <span class="status__dot">.</span>
+  </div> -->
   </div>
+
   <section id="home" class="tt-fullHeight" data-stellar-vertical-offset="50" data-stellar-background-ratio="0.5">
     <div class="skills-section-animation">
       <div class="circle-container">
