@@ -10,8 +10,9 @@
 
 - [Admin Dashboard of Uztelecom's official website](https://uztelecom.uz)
 - [Fair Vacancies](https://hr.uztelecom.uz/main/en)
-- [Telecom Chat](https://chat.uztelecom.uz/home)
+- [Telecom Chat](https://telecom-chat-ndn.netlify.app)
 - [O'zSuvTa'minot AJ](http://pk.pyrex.uz)
+- [Uztelecom Jira System](https://uztelecom-system.netlify.app)
 <!-- - [FrontLoops-1-4](https://ndn1618.github.io/FrontLoops-1-4/)
 - [FrontLoops-1-9](https://ndn1618.github.io/frontloops-1-9/)
 - [Namanganliklar24 project](https://ndn1618.github.io/namanganliklar-24/)
