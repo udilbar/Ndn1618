@@ -2,7 +2,7 @@
 
 **I'm Full Stack Web Developer**
 
-![](https://github-readme-stats.vercel.app/api?username=Ndn1618&&show_icons=true&count_private=true&&theme=vue)
+![](https://github-readme-stats.vercel.app/api?username=Ndn1618&&show_icons=true&count_private=true)
 
 <!-- [![Dilbar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ndn1618)](https://github.com/Ndn1618/github-readme-stats) -->
 
@@ -10,6 +10,8 @@
 
 - [Admin Dashboard of Uztelecom's official website](https://uztelecom.uz)
 - [Fair Vacancies](https://hr.uztelecom.uz/main/en)
+- [Telecom Chat](https://chat.uztelecom.uz/home)
+- [O'zSuvTa'minot AJ](http://pk.pyrex.uz)
 <!-- - [FrontLoops-1-4](https://ndn1618.github.io/FrontLoops-1-4/)
 - [FrontLoops-1-9](https://ndn1618.github.io/frontloops-1-9/)
 - [Namanganliklar24 project](https://ndn1618.github.io/namanganliklar-24/)
