@@ -4,7 +4,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Ndn1618&&show_icons=true&count_private=true)
 
-<!-- [![Dilbar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ndn1618)](https://github.com/Ndn1618/github-readme-stats) -->
+[![Dilbar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ndn1618)](https://github.com/Ndn1618/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ndn1618&layout=compact)](https://github.com/Ndn1618/github-readme-stats)
 
